@@ -4,8 +4,6 @@
 ### 👋 Hi there, I'm Sylvia Joice<br><br>🎓 **B.Tech in Artificial Intelligence & Data Science**  <br>📊 **Aspiring Data Scientist** | 💡 **Lifelong Learner** | 🧠 **AI & Tech Enthusiast**<br><br> 🚀 About Me<br><br>I’m currently pursuing my Bachelor's in AI & Data Science and diving deep into the world of data — from collecting and cleaning it to uncovering insights through analysis and machine learning.<br><br>I'm passionate about solving real-world problems using data and constantly improving my skills through hands-on projects, challenges, and collaborations.<br><br>🔍 Currently Learning<br><br>- Python for Data Analysis<br>- Machine Learning with Scikit-learn<br>- Data Visualization with Matplotlib & Seaborn<br>- SQL & Database Management<br>- Web Scraping & APIs<br>- Git & Version Control<br>
 
 
-## 🌐 Socials:
-![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sylviajoice17@gmail.com) 
 
 # 💻 Tech Stack:
 
