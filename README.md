@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="900">
+
 # 💫 About Me:
 ### 👋 Hi there, I'm Sylvia Joice<br><br>🎓 **B.Tech in Artificial Intelligence & Data Science**  <br>📊 **Aspiring Data Scientist** | 💡 **Lifelong Learner** | 🧠 **AI & Tech Enthusiast**<br><br> 🚀 About Me<br><br>I’m currently pursuing my Bachelor's in AI & Data Science and diving deep into the world of data — from collecting and cleaning it to uncovering insights through analysis and machine learning.<br><br>I'm passionate about solving real-world problems using data and constantly improving my skills through hands-on projects, challenges, and collaborations.<br><br>🔍 Currently Learning<br><br>- Python for Data Analysis<br>- Machine Learning with Scikit-learn<br>- Data Visualization with Matplotlib & Seaborn<br>- SQL & Database Management<br>- Web Scraping & APIs<br>- Git & Version Control<br>
 
